@@ -41,10 +41,7 @@
 
 
 > [!IMPORTANT]
-> This edition is an extra edition: it will surely be less maintained
-
-> [!CAUTION]
-> This version will be available soon 
+> This repository is empty because of the united ISO. See [AxOS-project/AxOS](https://github.com/AxOS-project/AxOS)
 
 <!-- TABLE OF CONTENTS -->
 <details>
